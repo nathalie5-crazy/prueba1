@@ -1,0 +1,8 @@
+* {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+ }
+ .header{
+     background: #111;
+     color:#fff;
+     padding: 30px;
+ }
